@@ -1,1 +1,1 @@
-![效果图](E:\html\htmlExec\xiaomiDemo\效果图.png)
+![效果图](./效果图.png)
